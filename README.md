@@ -13,7 +13,7 @@
   <li>Obesidade 3.</li> 
  </ul>
 
-<h2>Prévia</h2>
+<h1>Prévia</h1>
 
 <p>Clique <a href="https://thainno.github.io/Calcular-IMC/">aqui</a> para visualizar e testar o projeto.</p
 
